@@ -4,18 +4,8 @@ import os
 import time
 import random
 
-board =
-[
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9"
-]
+board = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+
 def print_board():
     print (" "+board[0]+" | "+board[1]+" | "+board[2]+" ")
     print ("---|---|---")
