@@ -1,3 +1,5 @@
+#Author: Roy Rouhana
+
 import os
 import time
 import random
